@@ -393,6 +393,7 @@ jobs:
   nuclei-scan:
     name: DAST Scan using Nuclei
     needs: [zap_scan]
+    if: ${{ always() }}
     runs-on: ubuntu-latest
     # needs: [upload_file]
     steps:
