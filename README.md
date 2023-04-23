@@ -1,4 +1,4 @@
-Secure CI/CD Pipeline 2.0
+Secure CI/CD pipeline with GitHub Actions
 =================
 
 [![Java CI](https://github.com/mybatis/jpetstore-6/actions/workflows/ci.yaml/badge.svg)](https://github.com/mybatis/jpetstore-6/actions/workflows/ci.yaml)
@@ -7,12 +7,13 @@ Secure CI/CD Pipeline 2.0
 [![License](https://img.shields.io/:license-apache-brightgreen.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
 
-Secure Flow is a GitHub Action pipeline with security features for Maven projects. It uses varieties of security tools to eliminate vulnerabilities happens in the development process, bringing developers a clear view of the quality of the project.
+Secure CI/CD pipeline is a GitHub Action pipeline with security features for your projects. It uses varieties of security tools to eliminate vulnerabilities happens in the development process, bringing developers a clear view of the quality of the project.
 
+This repo uses [dotnet-demoapp](https://github.com/benc-uk/dotnet-demoapp) as a C# demo.
 
 Structure
 ----------
-![Secure Flow](https://github.com/cl456852/securepipeline/blob/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-04-13%20131755.png?raw=true)
+![Secure CI/CD pipeline](https://github.com/dky815/Secure-CI-CD-Pipelines-with-GitHub-Actions/blob/master/img/structure.png)
 
 ## Modules
 >
